@@ -1,0 +1,6 @@
+{
+  "buildCommand": "bun run vercel-build",
+  "outputDirectory": ".next",
+  "installCommand": "bun install",
+  "framework": "nextjs"
+}
